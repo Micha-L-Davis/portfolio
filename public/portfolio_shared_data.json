@@ -31,32 +31,32 @@
         {
           "name": "HTML 5",
           "class": "devicon-html5-plain",
-          "level": "95"
+          "level": "90"
         },
         {
           "name": "CSS 3",
           "class": "devicon-css3-plain",
-          "level": "95"
+          "level": "80"
         },
         {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
-          "level": "70"
+          "level": "80"
         },
         {
           "name": "React",
           "class": "devicon-react-original",
-          "level": "85"
+          "level": "65"
         },
         {
           "name": "C#",
           "class": "devicon-csharp-plain",
-          "level": "65"
+          "level": "95"
         },
         {
           "name": "Unity",
           "class": "devicon-unity-original",
-          "level": "60"
+          "level": "95"
         }
       ]
     }
