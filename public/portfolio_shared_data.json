@@ -11,12 +11,12 @@
         {
           "name": "linkedin",
           "url": "https://www.linkedin.com/in/micha-l-davis/",
-          "class": "fa-brands fa-linkedin"
+          "class": "fab fa-linkedin"
         },
         {
           "name": "medium",
           "url": "https://micha-l-davis.medium.com",
-          "class": "fa-brands fa-medium"
+          "class": "fab fa-medium"
         }
       ],
       "image": "myProfile.jpg"
