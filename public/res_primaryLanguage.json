@@ -15,8 +15,8 @@
         "startDate": "Feb 2022",
         "description": "Trivia web game where the correct answers move a racer on a racetrack",
         "images": [
-          "images/portfolio/animal-racer/p1.jpg",
-          "images/portfolio/animal-racer/p2.jpg"
+          "images/portfolio/animal-racer/p1.png",
+          "images/portfolio/animal-racer/p2.png"
         ],
         "url": "https://github.com/Micha-L-Davis/trivia-race",
         "technologies": [
