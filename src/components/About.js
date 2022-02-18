@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
-import csharpIcon from "@iconify/icons-logos/csharp-icon";
+import csharpIcon from "@iconify/icons-logos/c-sharp";
 import javascriptIcon from "@iconify/icons-logos/javascript";
-import reactIcon from "@iconify/icons-logos/react";
+import unityIcon from "@iconify/icons-logos/unity";
 
 class About extends Component {
   render() {
@@ -39,7 +39,7 @@ class About extends Component {
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={reactIcon}
+                    icon={unityIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                 </span>
