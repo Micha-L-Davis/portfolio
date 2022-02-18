@@ -77,37 +77,30 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "GameDev HQ",
+        "title": "Unity Developer (Apprentice)",
+        "years": "7.2019 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Unity 3D"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "C#",
+          "AWS S3",
+          "Android SDK",
+          "Vuforia",
+          "Cinemachine",
+          "Google Maps API"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Allied Waste",
+        "title": "Application Developer (Contractor)",
+        "years": "01.2008 - 09.2008",
         "mainTech": [
-          "Angular 7/8"
+          "Visual Basic for Applications"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "VBA User Forms"
         ]
       }
     ]
