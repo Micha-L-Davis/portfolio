@@ -1,18 +1,23 @@
 {
     "basic_info": {
       "name": "Micha Davis",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Unity Developer", "Web Developer", "Game Developer", "Digital Artist" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/Micha-L-Davis",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
-        }
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/micha-l-davis/",
+          "class": "fa-brands fa-linkedin"
+        },
+        {
+          "name": "medium",
+          "url": "https://micha-l-davis.medium.com",
+          "class": "fa-brands fa-medium"
+        },
       ],
       "image": "myProfile.jpg"
     },
