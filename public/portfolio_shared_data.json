@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Micha Davis",
-      "titles": [ "Unity Developer", "Web Developer", "Game Developer", "Digital Artist" ],
+      "titles": [ "Unity Developer ", "Web Developer ", "Game Developer ", "Digital Artist " ],
       "social": [
         {
           "name": "github",
@@ -12,6 +12,11 @@
           "name": "linkedin",
           "url": "https://www.linkedin.com/in/micha-l-davis/",
           "class": "fab fa-linkedin"
+        },
+        {
+          "name": "medium",
+          "url": "https://micha-l-davis.medium.com",
+          "class": "fab fa-medium"
         },
         {
           "name": "medium",
