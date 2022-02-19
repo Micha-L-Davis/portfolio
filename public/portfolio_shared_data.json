@@ -19,9 +19,9 @@
           "class": "fab fa-medium"
         },
         {
-          "name": "medium",
-          "url": "https://micha-l-davis.medium.com",
-          "class": "fab fa-medium"
+          "name": "artstation",
+          "url": "https://www.artstation.com/michael-l-davis/profile",
+          "class": "fab fa-artstation"
         }
       ],
       "image": "myProfile.jpg"
