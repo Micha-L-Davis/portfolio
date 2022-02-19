@@ -2,6 +2,10 @@ body[data-theme="light"] {
     @import '/src/scss/light-slider.scss';
  
     .slider-tab {
-       background-color: #D7CAAA;
+       background-color: #ce7979;
     }
+    
+    .vertical-timeline-element-icon {
+        background: #8d7272 !important;
+     }
 }
