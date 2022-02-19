@@ -31,6 +31,7 @@ class Experience extends Component {
         return (
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
+            contentStyle={{ backgroundImage: "url(images/qbkls.png)" }}
             date={work.years}
             iconStyle={{
               background: "#AE944F",
